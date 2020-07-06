@@ -1,8 +1,9 @@
 {
-    "name": "require-hot",
-    "author": "Anders D. Johnson <AndersDJohnson@gmail.com>",
-    "description": "Dynamically re-require Node modules.",
-    "keywords": [],
-    "version": "0.1.0",
-    "main": "./build/require-hot.js"
+  "name": "require-hot",
+  "author": "Anders D. Johnson <AndersDJohnson@gmail.com>",
+  "description": "Dynamically re-require Node modules.",
+  "keywords": [],
+  "version": "0.1.0",
+  "main": "./build/require-hot.js",
+  "license": "MIT"
 }
